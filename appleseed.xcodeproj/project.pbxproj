@@ -20,6 +20,7 @@
 		6399A5A115A28603006C0965 /* SEEDSecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6399A5A015A28603006C0965 /* SEEDSecondViewController.m */; };
 		6399A5A315A28603006C0965 /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = 6399A5A215A28603006C0965 /* second.png */; };
 		6399A5A515A28603006C0965 /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6399A5A415A28603006C0965 /* second@2x.png */; };
+		6399A5B815A2954F006C0965 /* MainScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6399A5B715A2954F006C0965 /* MainScreen.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		6399A5A015A28603006C0965 /* SEEDSecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SEEDSecondViewController.m; sourceTree = "<group>"; };
 		6399A5A215A28603006C0965 /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
 		6399A5A415A28603006C0965 /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
+		6399A5B715A2954F006C0965 /* MainScreen.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainScreen.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				6399A5A215A28603006C0965 /* second.png */,
 				6399A5A415A28603006C0965 /* second@2x.png */,
 				6399A58A15A28603006C0965 /* Supporting Files */,
+				6399A5B715A2954F006C0965 /* MainScreen.xib */,
 			);
 			path = appleseed;
 			sourceTree = "<group>";
@@ -172,6 +175,7 @@
 				6399A59E15A28603006C0965 /* first@2x.png in Resources */,
 				6399A5A315A28603006C0965 /* second.png in Resources */,
 				6399A5A515A28603006C0965 /* second@2x.png in Resources */,
+				6399A5B815A2954F006C0965 /* MainScreen.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,6 +301,7 @@
 				6399A5AA15A28603006C0965 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
